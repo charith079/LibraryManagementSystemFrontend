@@ -1,17 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useAuth } from '../Components/AuthContext';
-// require('dotenv').config();
+
 const Home = () => {
   const [books, setBooks] = useState([]);
   const [error, setError] = useState(null);
   const { user, token, updateUser } = useAuth();
-  const baseURL = process.env.REACT_APP_API_KEY;
 
   const fetchBooks = async () => {
     try {
       const response = await axios.get(`https://librarymanagementsystembackend.onrender.com/api/books`);
-      
       if (response.data && Array.isArray(response.data)) {
         setBooks(response.data);
         setError(null);
@@ -19,7 +17,6 @@ const Home = () => {
         throw new Error('Invalid data format received');
       }
     } catch (err) {
-      console.error('API URL:', process.env.REACT_APP_API_URL); // For debugging
       console.error('Fetch error:', err);
       setError('Failed to fetch books. Please try again later.');
       setBooks([]);
@@ -27,12 +24,8 @@ const Home = () => {
   };
 
   useEffect(() => {
-    if (baseURL) {
-      fetchBooks();
-    } else {
-      setError('API configuration missing');
-    }
-  }, [baseURL]);
+    fetchBooks();
+  }, []);
 
   useEffect(() => {
     console.log('Books data:', books);
