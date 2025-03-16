@@ -1,0 +1,296 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "JURAMENTADA",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl0.casadellibro.com/a/l/t5/00/9788417347000.jpg",
+    "rating": 4.5
+  },
+  {
+    "bookId": 2,
+    "bookName": "LA VIDA INVISIBLE DE ADDIE LARUE",
+    "authorName": "V.e. Schwab", 
+    "bookImageLink": "https://imagessl4.casadellibro.com/a/l/t5/74/9788416517374.jpg",
+    "rating": 4.2
+  },
+  {
+    "bookId": 3,
+    "bookName": "EL OJO DEL MUNDO",
+    "authorName": "Robert Jordan",
+    "bookImageLink": "https://imagessl6.casadellibro.com/a/l/t5/06/9788445007006.jpg",
+    "rating": 4.4
+  },
+  {
+    "bookId": 4,
+    "bookName": "EL MAPA DE LAS ISLAS",
+    "authorName": "Alastair Bonnett",
+    "bookImageLink": "https://imagessl5.casadellibro.com/a/l/t5/05/9788419172105.jpg",
+    "rating": 4.1
+  },
+  {
+    "bookId": 5,
+    "bookName": "ENHORABUENA POR TU FRACASO",
+    "authorName": "Arturo Gonzalez Campos",
+    "bookImageLink": "https://imagessl7.casadellibro.com/a/l/t5/47/2910025142747.jpg",
+    "rating": 4.0
+  },
+  {
+    "bookId": 6,
+    "bookName": "LA FRONTERA INVISIBLE",
+    "authorName": "Javier Reverte",
+    "bookImageLink": "https://imagessl5.casadellibro.com/a/l/t5/45/9788401027345.jpg",
+    "rating": 4.3
+  },
+  {
+    "bookId": 7,
+    "bookName": "ESCUADRON CIELO: LA COLECCION",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl7.casadellibro.com/a/l/t5/57/9788418037757.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 8,
+    "bookName": "EL IMPERIO FINAL",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl4.casadellibro.com/a/l/t5/14/9788418037214.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 9,
+    "bookName": "ENHORABUENA POR TU FRACASO",
+    "authorName": "Arturo Gonzalez Campos",
+    "bookImageLink": "https://imagessl7.casadellibro.com/a/l/t5/97/9788418051197.jpg",
+    "rating": 4.0
+  },
+  {
+    "bookId": 10,
+    "bookName": "MONA LISA ACELERADA",
+    "authorName": "William Gibson",
+    "bookImageLink": "https://imagessl0.casadellibro.com/a/l/t5/20/9788445009420.jpg",
+    "rating": 4.2
+  },
+  {
+    "bookId": 11,
+    "bookName": "CRONICAS DE LA DRAGONLANCE: EL RETORNO DE LOS DRAGONES",
+    "authorName": "Margaret Weis",
+    "bookImageLink": "https://imagessl1.casadellibro.com/a/l/t5/41/9788445011041.jpg",
+    "rating": 4.3
+  },
+  {
+    "bookId": 12,
+    "bookName": "CRONICAS DE LA DRAGONLANCE: LA TUMBA DE HUMA",
+    "authorName": "Margaret Weis",
+    "bookImageLink": "https://imagessl2.casadellibro.com/a/l/t5/02/9788445011102.jpg",
+    "rating": 4.3
+  },
+  {
+    "bookId": 13,
+    "bookName": "EL HEROE DE LAS ERAS",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl1.casadellibro.com/a/l/t5/11/9788466658911.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 14,
+    "bookName": "LA CITA",
+    "authorName": "Emilia Pardo Bazan",
+    "bookImageLink": "https://imagessl2.casadellibro.com/a/l/t5/12/9788418451812.jpg",
+    "rating": 4.1
+  },
+  {
+    "bookId": 15,
+    "bookName": "EL HEROE DE LAS ERAS",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl0.casadellibro.com/a/l/t5/90/9788418037290.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 16,
+    "bookName": "VEINTICUATRO HORAS EN EL MADRID DE GALDOS",
+    "authorName": "nan",
+    "bookImageLink": "https://imagessl2.casadellibro.com/a/l/t5/02/9788492628902.jpg",
+    "rating": 4.0
+  },
+  {
+    "bookId": 17,
+    "bookName": "LA MALDICION DE HILL HOUSE",
+    "authorName": "Shirley Jackson",
+    "bookImageLink": "https://imagessl5.casadellibro.com/a/l/t5/95/9788494836695.jpg",
+    "rating": 4.5
+  },
+  {
+    "bookId": 18,
+    "bookName": "EXHALACION",
+    "authorName": "Ted Chiang",
+    "bookImageLink": "https://imagessl3.casadellibro.com/a/l/t5/93/9788417517793.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 19,
+    "bookName": "EL RITMO DE LA GUERRA",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl2.casadellibro.com/a/l/t5/32/9788417347932.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 20,
+    "bookName": "SINSONTE",
+    "authorName": "Walter Tevis",
+    "bookImageLink": "https://imagessl1.casadellibro.com/a/l/t5/71/9788418668371.jpg",
+    "rating": 4.4
+  },
+  {
+    "bookId": 21,
+    "bookName": "TIEMPO DE ODIO",
+    "authorName": "Andrzej Sapkowski",
+    "bookImageLink": "https://imagessl2.casadellibro.com/a/l/t5/32/9788498890532.jpg",
+    "rating": 4.3
+  },
+  {
+    "bookId": 22,
+    "bookName": "CRONICAS DE LA DRAGONLANCE: LA REINA DE LA OSCURIDAD",
+    "authorName": "Margaret Weis",
+    "bookImageLink": "https://imagessl4.casadellibro.com/a/l/t5/64/9788445011164.jpg",
+    "rating": 4.3
+  },
+  {
+    "bookId": 23,
+    "bookName": "EL SILMARILLION",
+    "authorName": "J.r.r. Tolkien",
+    "bookImageLink": "https://imagessl0.casadellibro.com/a/l/t5/10/9788445073810.jpg",
+    "rating": 4.9
+  },
+  {
+    "bookId": 24,
+    "bookName": "CANTA IRLANDA: UN VIAJE POR EL EYRE",
+    "authorName": "Javier Reverte",
+    "bookImageLink": "https://imagessl3.casadellibro.com/a/l/t5/73/9788401346873.jpg",
+    "rating": 4.2
+  },
+  {
+    "bookId": 25,
+    "bookName": "EL POZO DE LA ASCENSION",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl6.casadellibro.com/a/l/t5/76/9788418037276.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 26,
+    "bookName": "ACADEMIA DE MADRES: EL ORIGEN",
+    "authorName": "Nachter",
+    "bookImageLink": "https://imagessl7.casadellibro.com/a/l/t5/97/9788427049697.jpg",
+    "rating": 4.0
+  },
+  {
+    "bookId": 27,
+    "bookName": "LA CAIDA DE GONDOLIN",
+    "authorName": "J.r.r. Tolkien",
+    "bookImageLink": "https://imagessl2.casadellibro.com/a/l/t5/92/9788445006092.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 28,
+    "bookName": "EL ASCENSO DE LA SOMBRA",
+    "authorName": "Robert Jordan",
+    "bookImageLink": "https://imagessl7.casadellibro.com/a/l/t5/37/9788445007037.jpg",
+    "rating": 4.5
+  },
+  {
+    "bookId": 29,
+    "bookName": "LOS HIJOS DE HURIN",
+    "authorName": "J.r.r. Tolkien",
+    "bookImageLink": "https://imagessl8.casadellibro.com/a/l/t5/98/9788445006498.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 30,
+    "bookName": "STAR WARS EL LIBRO DE LOS SITH",
+    "authorName": "Daniel Wallace",
+    "bookImageLink": "https://imagessl8.casadellibro.com/a/l/t5/98/9788445005798.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 31,
+    "bookName": "LA HISTORIA DE TU VIDA",
+    "authorName": "Ted Chiang",
+    "bookImageLink": "https://imagessl5.casadellibro.com/a/l/t5/55/9788498891355.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 32,
+    "bookName": "EL IMPERIO FINAL",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl1.casadellibro.com/a/l/t5/91/9788417347291.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 33,
+    "bookName": "BINTI: HOGAR",
+    "authorName": "Nnedi Okorafor",
+    "bookImageLink": "https://imagessl8.casadellibro.com/a/l/t5/48/9788494795848.jpg",
+    "rating": 4.2
+  },
+  {
+    "bookId": 34,
+    "bookName": "ARCANUM ILIMITADO: LA COLECCION DEL COSMERE",
+    "authorName": "Brandon Sanderson",
+    "bookImageLink": "https://imagessl1.casadellibro.com/a/l/t5/21/9788466662321.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 35,
+    "bookName": "STAR WARS LAS GUERRAS DE LOS CAZARRECOMPENSAS: NAVE ESCLAVA",
+    "authorName": "K. W. Jeter",
+    "bookImageLink": "https://imagessl7.casadellibro.com/a/l/t5/77/9788411121477.jpg",
+    "rating": 4.3
+  },
+  {
+    "bookId": 36,
+    "bookName": "UN PASEO POR EL MUNDO",
+    "authorName": "nan",
+    "bookImageLink": "https://imagessl8.casadellibro.com/a/l/t5/58/9788418227158.jpg",
+    "rating": 4.1
+  },
+  {
+    "bookId": 37,
+    "bookName": "LOS SEIS DE ATLAS",
+    "authorName": "Olivie Blake",
+    "bookImageLink": "https://imagessl7.casadellibro.com/a/l/t5/17/9788416517817.jpg",
+    "rating": 4.4
+  },
+  {
+    "bookId": 38,
+    "bookName": "LA COSTA MAS LEJANA",
+    "authorName": "Ursula K. Le Guin",
+    "bookImageLink": "https://imagessl3.casadellibro.com/a/l/t5/23/9788445012123.jpg",
+    "rating": 4.5
+  },
+  {
+    "bookId": 39,
+    "bookName": "LA ESPADA DEL DESTINO",
+    "authorName": "Andrzej Sapkowski",
+    "bookImageLink": "https://imagessl3.casadellibro.com/a/l/t5/33/9788498890433.jpg",
+    "rating": 4.3
+  },
+  {
+    "bookId": 40,
+    "bookName": "WEIRD TALES 1933-1942",
+    "authorName": "Francisco Arellano",
+    "bookImageLink": "https://imagessl9.casadellibro.com/a/l/t5/39/9788492492039.jpg",
+    "rating": 4.0
+  },
+  {
+    "bookId": 41,
+    "bookName": "DRAMA QUEEN",
+    "authorName": "La Drama Queen",
+    "bookImageLink": "https://imagessl5.casadellibro.com/a/l/t5/95/9788427049895.jpg",
+    "rating": 4.1
+  },
+  {
+    "bookId": 42,
+    "bookName": "ELFO OSCURO: EL EXILIO",
+    "authorName": "R.a. Salvatore",
+    "bookImageLink": "https://imagessl6.casadellibro.com/a/l/t5/96/9788445011096.jpg",
+    "rating": 4.4
+  }
+]
