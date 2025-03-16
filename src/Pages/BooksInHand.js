@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useAuth } from "../Components/AuthContext";
 import axios from 'axios';
-// require('dotenv').config();
 
 const BooksInHand = () => {
   const [books, setBooks] = useState([]);
